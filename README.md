@@ -4,5 +4,5 @@ Divyam Rana
 Atishay Jain
 Wenlin Zhao
 Xingzhu Chen
-Achintya
-Neha
+Achintya Sreedhar
+Neha Shastri
